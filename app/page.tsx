@@ -280,7 +280,7 @@ Please share availability and a quick quote.`
               JS Live Events
             </h1>
             <p className="text-xl sm:text-2xl font-bold text-gray-700 mb-4">
-              Live Production & Rentals
+              Feel the vibe, watch it live
             </p>
             <p className="text-lg sm:text-xl text-gray-600 mb-10 sm:mb-12 max-w-2xl mx-auto">
               LED Walls, LED TVs, Internet Live Streaming, Drone Coverage.
